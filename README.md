@@ -1,13 +1,14 @@
-## Screenshots
-
-![App Screenshot](https://github.com/sudhanshu432/MovieMatch/blob/main/MovieMatch.jpg)
-
-
 # MovieMatch
 
 This is an Intelligent Content Based Movie Recommender System to find movies that 
 align with your tastes and interests, helping you discover new 
 and exciting films that you may not have come across otherwise.
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/sudhanshu432/MovieMatch/blob/main/MovieMatch.jpg)
+
 
   
 ## Deployment
