@@ -10,10 +10,6 @@ and exciting films that you may not have come across otherwise.
 [![App Screenshot](https://github.com/sudhanshu432/MovieMatch/blob/main/MovieMatch.jpg)](https://youtu.be/z9cPKcylQkU?si=QJgQOnlPj9dFdNYY)
 
 
-## Demo Video
-
-[![App Demo Video]](https://youtu.be/z9cPKcylQkU?si=QJgQOnlPj9dFdNYY)
-
   
 ## Deployment
 
