@@ -24,7 +24,7 @@ Python,Machine learning,Streamlit
 
 ##  Sources of the dataset
 
-![TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+[TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 
 ## Authors
