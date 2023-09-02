@@ -12,7 +12,7 @@ and exciting films that you may not have come across otherwise.
 
 ## Demo Video
 
-[![App Demo Vide](https://github.com/sudhanshu432/MovieMatch/blob/main/MovieMatch.jpg)](https://youtu.be/z9cPKcylQkU?si=QJgQOnlPj9dFdNYY)
+[![App Demo Video]](https://youtu.be/z9cPKcylQkU?si=QJgQOnlPj9dFdNYY)
 
   
 ## Deployment
