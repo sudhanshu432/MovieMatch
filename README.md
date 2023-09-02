@@ -22,7 +22,7 @@ Not yet deployed
 
 ## Tech Stack
 
-Python,Machine learning,Streamlit
+Python, Machine learning, Streamlit
 
 
 ##  Sources of the dataset
