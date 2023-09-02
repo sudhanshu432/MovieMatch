@@ -5,41 +5,11 @@
 
 # MovieMatch
 
-This is an Intelligent Movie Recommender System to find movies that 
+This is an Intelligent Content Based Movie Recommender System to find movies that 
 align with your tastes and interests, helping you discover new 
 and exciting films that you may not have come across otherwise.
 
-
-## Features
-
-- Signup and Signin using JWT token
-- Basic CRUD operations
-- READER and ADMIN roles of Users
-- Authorization of users before they can access endpoints
-- ADMIN users can perform  operations like POST, DELETE, PATCH, etc.
-- READER users can perform PATCH and GET .
-- Cross Platform
-
-
-## API Reference
-
- - POST : user/signUp  - Signup method for all users
- - GET : /signIn  - Login method for users
- - GET : user/getMyDetails  - Get details of logged in user
- - PATCH : user/updateEndUserName/{name}  - Update method for Readers to change their name 
- - PATCH : user/updateUserLocationName/{name}  - update method for readers to change their name for UserLocation object
- - GET : user/getUsers/{num}  - Get list of nearest users from point (0,0)
- - POST : admin/createData  - Post method for admins to create UserLocation object
- - PUT : admin/updateData  - Update mthod for Admins to update contents of UserLocation object
- - DELETE : admin/deleteUser/{userId} : Delete method for Admins to delete any user
-## Installation
-
-Clone from Repo. Run in IDE 
-
-```bash
-  Default port 8080
-```
-    
+  
 ## Deployment
 
 Not yet deployed
@@ -49,9 +19,13 @@ Not yet deployed
 
 ## Tech Stack
 
-**Client:** Java,SpringBoot,HSQL
+Python,Machine learning,Streamlit
 
-**Server:** Embedded
+
+##  Sources of the dataset
+
+![TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+
 
 ## Authors
 
