@@ -30,6 +30,8 @@ Python,Machine learning,Streamlit
 
 ##  Missing similarity pkl file
 
+Due to the large size of the file I am not able to upload it to this repository, so use the link below to access this file
+
 [similarity.pkl](https://drive.google.com/file/d/1Nygzjq59qmIl_SRzmJTpR3nl_q5j-yf1/view?usp=drive_link)
 
 
