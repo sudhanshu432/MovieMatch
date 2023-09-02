@@ -37,6 +37,11 @@ Due to the large size of the file I am not able to upload it to this repository,
 [similarity.pkl](https://drive.google.com/file/d/1Nygzjq59qmIl_SRzmJTpR3nl_q5j-yf1/view?usp=drive_link)
 
 
+##  Notebook
+
+[MovieMatch Notebook](https://github.com/sudhanshu432/MovieMatch/blob/main/movie-recommender-system.ipynb)
+
+
 ## Authors
 
 - [@Sudhanshu Kumar](https://github.com/sudhanshu432)
