@@ -7,8 +7,7 @@ and exciting films that you may not have come across otherwise.
 
 ## APP DemoVideo 
 
-[PlayVideo](https://youtu.be/z9cPKcylQkU?si=QJgQOnlPj9dFdNYY)
-[![App Screenshot](https://github.com/sudhanshu432/MovieMatch/blob/main/MovieMatch.jpg)](https://youtu.be/z9cPKcylQkU?si=QJgQOnlPj9dFdNYY)
+https://github.com/sudhanshu432/MovieMatch/assets/87382259/91fff6d9-248f-4e19-ba74-6f449e7eb6fb
 
 
 
