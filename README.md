@@ -6,11 +6,7 @@ and exciting films that you may not have come across otherwise.
 
 
 ## APP DemoVideo 
-
-https://github.com/sudhanshu432/MovieMatch/assets/87382259/91fff6d9-248f-4e19-ba74-6f449e7eb6fb
-
-
-
+https://github.com/sudhanshu432/MovieMatch/assets/87382259/7520a78f-4c93-4adc-84b0-480fd223a213
   
 ## Deployment
 
